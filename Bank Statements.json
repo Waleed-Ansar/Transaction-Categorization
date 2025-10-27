@@ -1,0 +1,591 @@
+[
+    {
+        "AccountHolderAddress": {
+            "_source": "438 S 5TH ST DARBY PA 19023-2714",
+            "houseNumber": "438",
+            "road": "S 5TH ST",
+            "postalCode": "19023-2714",
+            "city": "DARBY",
+            "state": "PA",
+            "streetAddress": "438 S 5TH ST"
+        },
+        "AccountHolderName": "EMCBH LLC",
+        "Accounts": [
+            {
+                "_source": "",
+                "AccountNumber": "7111743303",
+                "AccountType": "Business Checking",
+                "BeginningBalance": 55446.84,
+                "EndingBalance": 56864.42,
+                "Transactions": [
+                    {
+                        "_source": "",
+                        "Date": "02/03",
+                        "Description": "ONLINE PAYMENT, THANK YOU",
+                        "WithdrawalAmount": -41196.27
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/25",
+                        "Description": "Chevron Oil Pump 800-782-7282 WA",
+                        "WithdrawalAmount": 3009.95
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/25",
+                        "Description": "76 - GLENDORA UNION 76 GLENDORA CA",
+                        "WithdrawalAmount": 76.44
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/25",
+                        "Description": "STARBUCKS CORP SALES 800-782-7282 WA",
+                        "WithdrawalAmount": 3009.95
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/25",
+                        "Description": "MJ VALLEY RESTAURANT MONTEREY PARK CA",
+                        "WithdrawalAmount": 62.58
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/25",
+                        "Description": "STARBUCKS CORP SALES 800-782-7282 WA",
+                        "WithdrawalAmount": 3009.95
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/25",
+                        "Description": "STARBUCKS CORP SALES 800-782-7282 WA",
+                        "WithdrawalAmount": 3009.95
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/25",
+                        "Description": "STARBUCKS CORP SALES 800-782-7282 WA",
+                        "WithdrawalAmount": 3009.95
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/26",
+                        "Description": "PORTO'S BAKERY W COVI WEST COVINA CA",
+                        "WithdrawalAmount": 46.47
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "SHELL OIL  Pump 57444472203 TEMPLE CITY CA",
+                        "WithdrawalAmount": 62.72
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/26",
+                        "Description": "SHELL OIL 57444469704 GLENDORA CA",
+                        "WithdrawalAmount": 58.72
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "SHELL OIL 57444472203 Pump TEMPLE CITY CA",
+                        "WithdrawalAmount": 62.72
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/28",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 78.5
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/28"
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/28",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 402.85
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/28",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100"
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/28",
+                        "Description": "AUS",
+                        "WithdrawalAmount": 641.02
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "EXXON MOBIL 57444472203 TEMPLE CITY CA",
+                        "WithdrawalAmount": 62.72
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/28",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 711.3
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/29"
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/29",
+                        "Description": "APPLE.COM/US 800-676-2775 CA",
+                        "WithdrawalAmount": 2090.03
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/29",
+                        "Description": "APPLE.COM/BILL CUPERTINO CA",
+                        "WithdrawalAmount": 5.99
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/29",
+                        "Description": "GOOGLE *YouTubePremium 650-253-0000 CA",
+                        "WithdrawalAmount": 22.99
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/30",
+                        "Description": "INTELIUS 888-245-1655 8882451655 WA",
+                        "WithdrawalAmount": 24.86
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/30",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 405.05
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/30",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 640.88
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/30",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 711.02
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "EXPENSIFY, INC. SAN FRANCISCO CA",
+                        "WithdrawalAmount": 10
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "AMAZON MARK* ZC6A75W20 SEATTLE WA",
+                        "WithdrawalAmount": 113.42
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "AMAZON MARK* Z728W7KR2 SEATTLE WA",
+                        "WithdrawalAmount": 219.49
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "AMZN Mktp US*ZC8Q06PC1 Amzn.com/bill WA",
+                        "WithdrawalAmount": 22.21
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 409.18
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 640.74
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 710.78
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "WAVE - * NEIL KAUFFMAN GRANADA HILL CA",
+                        "WithdrawalAmount": 484.98
+                    },
+                    {
+                        "_source": "",
+                        "Date": "01/31",
+                        "Description": "ONO-054 (GLENDORA) GLENDORA CA",
+                        "WithdrawalAmount": 69.44
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/01",
+                        "Description": "GOOGLE *ADS2356855564 650-253-0000 CA",
+                        "WithdrawalAmount": 411.03
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/02",
+                        "Description": "STARLINK INTERNET STARLINK.COM CA",
+                        "WithdrawalAmount": 50
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/04",
+                        "Description": "UNBOUNCE DENVER CO",
+                        "WithdrawalAmount": 891
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/04",
+                        "Description": "CHEVRON 0093690 LOS ANGELES CA",
+                        "WithdrawalAmount": 51.89
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/04",
+                        "Description": "76 - GLENDORA UNION 76 GLENDORA CA",
+                        "WithdrawalAmount": 125.37
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/05",
+                        "Description": "AMAZON RETA* Z740D86JO SEATTLE WA",
+                        "WithdrawalAmount": 156.79
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/05",
+                        "Description": "AMZN Mktp US*KU3NL2CQ3 Amzn.com/bill WA",
+                        "WithdrawalAmount": 49.6
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/06",
+                        "Description": "AMAZON RETA* Z76KK2PY1 SEATTLE WA",
+                        "WithdrawalAmount": 154.32
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/06",
+                        "Description": "Amazon Music*Z76WR41K1 888-802-3080 WA",
+                        "WithdrawalAmount": 99
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/06",
+                        "Description": "AMAZON MARK* Z70GM9581 SEATTLE WA",
+                        "WithdrawalAmount": 123.98
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/06",
+                        "Description": "Pipedrive INC New York NY",
+                        "WithdrawalAmount": 179.7
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/06",
+                        "Description": "IN *ACCOUNTINGX INC. 902-4035434 CAN\n203.00 CANADIAN DOLLAR",
+                        "WithdrawalAmount": 142.3
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/07",
+                        "Description": "AMERICAN0012212747960 PHOENIX AZ",
+                        "WithdrawalAmount": 1646.97
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/07",
+                        "Description": "AMERICAN0012212750463 PHOENIX AZ",
+                        "WithdrawalAmount": 1646.97
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/07",
+                        "Description": "AMERICAN0012212750125 PHOENIX AZ\nNAME: LARIOS/ROBERTO",
+                        "WithdrawalAmount": 1839.36
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/08",
+                        "Description": "AMERICAN0012212945585 PHOENIX AZ\nNAME: MARTIN/CHERYL",
+                        "WithdrawalAmount": 1730.97
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/09",
+                        "Description": "HOTEL LODG* WALTDISNEY LODGING.SUPPO AP",
+                        "WithdrawalAmount": 1018.43
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/09",
+                        "Description": "SPOTIFY 8777781161 1 NY",
+                        "WithdrawalAmount": 11.99
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/10",
+                        "Description": "DNH*GODADDY#357866514 TEMPE AZ",
+                        "WithdrawalAmount": 119.88
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/10",
+                        "Description": "DNH*GODADDY#357862529 TEMPE AZ",
+                        "WithdrawalAmount": 212.37
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/11",
+                        "Description": "AMAZON RETA* 4G8OJ8A93 SEATTLE WA",
+                        "WithdrawalAmount": 627.32
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/11",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 408.83
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/11",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 640.42
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/11",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 710.18
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/13",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 411.28
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/13",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 639.9
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/13",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 709.45
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/14",
+                        "Description": "TIDAL.COM Miami FL",
+                        "WithdrawalAmount": 2
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/14",
+                        "Description": "CLAUDE.AI SUBSCRIPTION SAN FRANCISCO CA",
+                        "WithdrawalAmount": 20
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/14",
+                        "Description": "WAVE - * NEIL KAUFFMAN GRANADA HILL CA",
+                        "WithdrawalAmount": 1545
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/14",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 411.21
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/14",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 639.83
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/14",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 709.17
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/15",
+                        "Description": "OPENAI *CHATGPT SUBSCR SAN FRANCISCO CA",
+                        "WithdrawalAmount": 20
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/15",
+                        "Description": "MIT SLOAN MGMT REVIEW 617-253-7170 MA",
+                        "WithdrawalAmount": 89
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/16",
+                        "Description": "76 - GLENDORA UNION 76 GLENDORA CA",
+                        "WithdrawalAmount": 108.78
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/16",
+                        "Description": "GOOGLE *ADS2356855564 650-253-0000 CA",
+                        "WithdrawalAmount": 500
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/17",
+                        "Description": "AMAZON MARK* VZ8J37DV3 SEATTLE WA",
+                        "WithdrawalAmount": 58.18
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/17",
+                        "Description": "FAMILY FUN CENTER/BULL UPLAND CA",
+                        "WithdrawalAmount": 195.72
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/18",
+                        "Description": "AMAZON RETA* VD6YD6AG3 SEATTLE WA",
+                        "WithdrawalAmount": 25.48
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/18",
+                        "Description": "YAHOO *Mail Plus 866-562-7228 CA",
+                        "WithdrawalAmount": 5
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/18",
+                        "Description": "AMAZON MARK* C29NR7YR3 SEATTLE WA",
+                        "WithdrawalAmount": 217.17
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/18",
+                        "Description": "AMAZON RETA* QL71H1S03 SEATTLE WA",
+                        "WithdrawalAmount": 415.48
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "76 - GLENDORA UNION 76 GLENDORA CA",
+                        "WithdrawalAmount": 84.53
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "AMERICAN0012215966599 PHOENIX AZ\nNAME: LAM/SUMMY\nLAX\nR\nSTOP:X\nR\nSTOP:X",
+                        "WithdrawalAmount": 1586.96
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "AMERICAN0012215969318 PHOENIX AZ\nNAME: LAM/SUMMY\nLAX \\X\nSTOP:X\nTO LAX\nI\nSTOP:X",
+                        "WithdrawalAmount": 5555.91
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "AMERICAN0012215969898 PHOENIX AZ\nNAME: LARIOS/ROBERTO\nLAX TO NRT\nI\nSTOP:X\nNRT TO LAX\nI : STOP:X",
+                        "WithdrawalAmount": 5555.91
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "SUMMER ROLLS TEMPLE CI TEMPLE CITY CA",
+                        "WithdrawalAmount": 110.6
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/19",
+                        "Description": "SHELL OIL 57444472203 TEMPLE CITY CA",
+                        "WithdrawalAmount": 62.72
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/20",
+                        "Description": "AMAZON MARK* O65JW1TM3 SEATTLE WA",
+                        "WithdrawalAmount": 123.98
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/21",
+                        "Description": "AMAZON MARK* QZ1YE4MZ3 SEATTLE WA",
+                        "WithdrawalAmount": 55.1
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/22",
+                        "Description": "AMAZON MARK* KU6N77L63 SEATTLE WA",
+                        "WithdrawalAmount": 209.35
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/22",
+                        "Description": "CREATESENDCOM SYDNEY 0285187100 AUS",
+                        "WithdrawalAmount": 77.52
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/24",
+                        "Description": "AMAZON MARK* IR3395RD3 SEATTLE WA",
+                        "WithdrawalAmount": 211.63
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/24",
+                        "Description": "DRI*UPRINTING VAN NUYS CA",
+                        "WithdrawalAmount": 432.6
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/24",
+                        "Description": "STATE OF CALIF DMV INT SACRAMENTO CA",
+                        "WithdrawalAmount": 27
+                    },
+                    {
+                        "_source": "",
+                        "Date": "02/24",
+                        "Description": "CA DMV FEE KNOXVILLE TN",
+                        "WithdrawalAmount": 0.53
+                    },
+                    {
+                        "_source": "",
+                        "Date": "2022-11-01",
+                        "Description": "Electronic Deposit REF=223040164743940N00\nFrom AFC 6351699152AFC ACH 6058009125",
+                        "DepositAmount": 11220.46
+                    }
+                ]
+            }
+        ],
+        "BankName": "Services bancaires aux entreprises",
+        "StatementEndDate": "2022-06-30",
+        "__raw__": {
+            "content": "Adresse de votre succursale: PO BOX 100 193 MILITARY RD LANCASTER, ONT K0C1N0\nServices bancaires aux entreprises\nCLIENTREFERRALS. COM LTD. REFERENCESCLIENTS. COM/CLIENTREFERRALS. CO M 1200 AV MCGILL COLLEGE UNIT 1100 MONTREAL QC H3B 4G7\nVotre succursale LANCASTER Numéro de domiciliation : 2358\nPour toute question concernant le présent relevé, composez le (613) 347-2474\nServices bancaires en direct 1-800-361-6681 www.bmo.com\nRelevé de services bancaires aux entreprises Période terminée le 30 Juin 2022\nSommaire de votre compte\nCompte\nSolde d'ouverture ($)\nTotal\ndes montants\n- déduits ($)\nTotal\ndes montants\n+ ajoutés ($)\nSolde\nde fermeture ($)\n= le 30 Juin 2022\nCompte courant d'entreprise - $US\n# 2358 4795-388\n366 344,00\n1 124 047,00\n806 185,00\n48 482,00\nDétails des transactions\nDate\nDescription\nMontants déduits de votre compte ($)\nMontants ajoutés à votre compte ($)\nSolde ($)\nE\nCompte courant d'entreprise - $US # 2358 4795-388\nType de compte: CLIENTREFFER\nNom de l'entreprise : CLIENTREFERRALS.COM LTD.\nExerçant ses activités sous le nom de :\nREFERENCESCLIENTS.COM/CLIENTREFERRALS.COM\n1ª Juin\nSolde d'ouverture\n366 344,00\n1 er Juin\nTraite en $ US\n5 000,00\n361 344,00\n1 er Juin\nTraite en $ US\n20 000,00\n341 344,00\n1 er Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, US, HAORAN SUN\n58 320,00\n399 664,00\n02 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, HK, WORLD WIDE LINK CRI S\n23 675,00\n423 339,00\n02 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, HK, WORLD WIDE LINK CRI S\n25 175,00\n448 514,00\n02 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, HK, WORLD WIDE LINK CRI S\n27 175,00\n475 689,00\nSuite à la page suivante\nPage 1 de 3\nBMO\nBanque de Montréal\nMembre de BMO Groupe financier\n15130F (09/02)\nDétails des transactions (suite)\nDate\nDescription\nMontants déduits de votre compte ($)\nMontants ajoutés à votre compte ($)\nSolde ($)\nCompte courant d'entreprise - $US # 2358 4795-388\n(suite)\n02 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, US, MR MOHAMMAD DIAA MOHA\n102 400,00\n578 089,00\n03 Juin\nVirement Télégraphique, VIREMENT TELEGRAPHIQUE, HK, FANG JINGHUI, WW22060255550962\n30 000,00\n548 089,00\n03 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, AG, VERANDAH RESORTS LIMI\n154 930,00\n703 019,00\n06 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, HK, WORLD WIDE LINK CRI S\n23 175,00\n726 194,00\n06 Juin\nTraite en $ US\n42 000,00\n684 194,00\n06 Juin\nTraite en $ US\n27 900,00\n656 294,00\n06 Juin\nTraite en $ US\n20 000,00\n636 294,00\n06 Juin\nTraite en $ US\n18 500,00\n617 794,00\n06 Juin\nTraite en $ US\n22 000,00\n595 794,00\n06 Juin\nTraite en $ US\n200 000,00\n395 794,00\n06 Juin\nTraite en $ US\n5 000,00\n390 794,00\n06 Juin\nTraite en $ US\n5 000,00\n385 794,00\n06 Juin\nTraite en $ US\n5 000,00\n380 794,00\n07 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, AG, VERANDAH RESORTS LIMI\n154 930,00\n535 724,00\n08 Juin\nTraite en $ US\n200 000,00\n335 724,00\n09 Juin\nVirement en ligne, TF 0205#4795-193\n5 025,00\n340 749,00\n09 Juin\nVirement en ligne, TF 0205#4795-193\n10 361,00\n330 388,00\n09 Juin\nVirement en ligne, TF 0205#4795-193\n15 400,00\n314 988,00\n09 Juin\nVirement en ligne, TF 0205#4795-193\n188 047,00\n126 941,00\n09 Juin\nVirement en ligne, TF 0205#4795-193\n10 361,00\n116 580,00\n09 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, AG, VERANDAH RESORTS LIMI\n154 930,00\n271 510,00\n10 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, HK, MR WANG JIANGTAO\n2 000,00\n273 510,00\n10 Juin\nTraite en $ US\n200 000,00\n73 510,00\n10 Juin\nTraite en $ US\n27 900,00\n45 610,00\n10 Juin\nVirement en ligne, TF 0205#4795-193\n10 361,00\n35 249,00\n10 Juin\nVirement en ligne, TF 0205#4795-193\n2 000,00\n33 249,00\n15 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, SG, LIN SHEN\n23 200,00\n56 449,00\n16 Juin\nTraite en $ US\n18 000,00\n38 449,00\n16 Juin\nTraite en $ US\n12 500,00\n25 949,00\n16 Juin\nTraite en $ US\n5 000,00\n20 949,00\n16 Juin\nVirement en ligne, TF 0205#4795-193\n200,00\n20 749,00\n16 Juin\nVirement en ligne, TF 0205#4795-193\n161,00\n20 588,00\n17 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, NG, OLUFEMI OWOLABI BADEJ\n33 575,00\n54 163,00\n20 Juin\nTraite en $ US\n18 000,00\n36 163,00\n20 Juin\nTraite en $ US\n5 000,00\n31 163,00\nSuite à la page suivante\nPage 2 de 3\nRelevé de services bancaires aux entreprises\nServices bancaires aux entreprises\nCLIENTREFERRALS.COM LTD., REFERENCESCLIENTS.COM/CLIENTREFERRALS.CO Période terminée le 30 Juin 2022\nDétails des transactions (suite)\nDate\nDescription\nMontants deduits de votre compte ($)\nMontants ajoutés à votre compte ($)\nSolde ($)\nCompte courant d'entreprise - $US # 2358 4795-388\n(suite)\n22 Juin\nVirement en ligne, TF 0205#4795-193\n175,00\n30 988,00\n29 Juin\nRéception d'un virem. télégr., RECEPTION DE VIREM TELEGR, HK, WORLD WIDE LINK CRI S\n17 675,00\n48 663,00\n29 Juin\nVirement en ligne, TF 0205#4795-193\n175,00\n48 488,00\n30 Juin\nFrais de tenue de compte, FRAIS FIXES $6.00\n6,00\n48 482,00\n30 Juin Totaux à la fermeture\n806 185,00\nNombre d'articles traités\n1 124 047,00 31 14\nPage 3 de 3\nBMO\nBanque de Montréal\n15130F (09/02)\nMembre de BMO Groupe financier",
+            "paragraphs": []
+        },
+        "created_at": "2025-10-08T13:32:20.692Z"
+    }
+]
