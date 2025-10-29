@@ -1,0 +1,623 @@
+{
+  "AccountHolderAddress": {
+    "_source": "1020 PINOAK LN BOURBON MO 65441",
+    "houseNumber": "1020",
+    "road": "PINOAK LN",
+    "postalCode": "65441",
+    "city": "BOURBON",
+    "state": "MO",
+    "streetAddress": "1020 PINOAK LN"
+  },
+  "AccountHolderName": "STORM PRO SOLUTION LLC",
+  "Accounts": [
+    {
+      "_source": "",
+      "AccountNumber": "000000713980095",
+      "AccountType": "Chase Business Complete Checking",
+      "BeginningBalance": 68.01,
+      "EndingBalance": 5493.22,
+      "Transactions": [
+        {
+          "_source": "",
+          "Date": "2025-07-01",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25326919484",
+          "DepositAmount": 150
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25372317041",
+          "DepositAmount": 2500
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25404484015",
+          "DepositAmount": 800
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25397667682",
+          "DepositAmount": 150
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-09",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25423815116",
+          "DepositAmount": 2500
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-11",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25444768167",
+          "DepositAmount": 2000
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "ATM Cash Deposit 07/12 100 Clarkson Rd Ellisville MO Card 1096",
+          "DepositAmount": 1700
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25485352375",
+          "DepositAmount": 150
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-15",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25489212272",
+          "DepositAmount": 250
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25550941775",
+          "DepositAmount": 35
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25551748001",
+          "DepositAmount": 15
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "ATM Cash Deposit 07/22 2895 N Highway 67 Florissant MO Card 1096",
+          "DepositAmount": 123
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "ATM Cash Deposit 07/22 16897 Chesterfield Air Chesterfield MO Card 1096",
+          "DepositAmount": 40
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25576023560",
+          "DepositAmount": 10
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25576044886",
+          "DepositAmount": 5
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25570747334",
+          "DepositAmount": 1.38
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-23",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25588753372",
+          "DepositAmount": 1300
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-23",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25585086744",
+          "DepositAmount": 350
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-24",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25592996084",
+          "DepositAmount": 1300
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-24",
+          "Description": "Online Transfer From Mma ... 9517 Transaction#: 25595674304",
+          "DepositAmount": 600
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-28",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25637102922",
+          "DepositAmount": 4000
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-28",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25627462277",
+          "DepositAmount": 32
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-31",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 25669981919",
+          "DepositAmount": 6000
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-01",
+          "Description": "Card Purchase 07/01 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-01",
+          "Description": "Card Purchase 07/01 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-02",
+          "Description": "Card Purchase 07/01 Py *Sullivan Storage 636-4970652 MO Card 1096",
+          "WithdrawalAmount": 135
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase 07/04 Pnm*C3 Rentals LLC Santa Clara CA Card 1096",
+          "WithdrawalAmount": 637.24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase 07/05 Aci*Westlake Payment 323-692-8800 CA Card 1096",
+          "WithdrawalAmount": 900.77
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Recurring Card Purchase 07/04 Wyomingllcattomey San Juan Card 1096",
+          "WithdrawalAmount": 29.99
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase 07/05 Fiverr * 9543682267 NY Card 1096",
+          "WithdrawalAmount": 411.45
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Recurring Card Purchase 07/06 Fiverrinc New York NY Card 1096",
+          "WithdrawalAmount": 8.78
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Payment Sent 07/06 Rmtly* Q5Bbc Remitly. Com WA Card 1096",
+          "WithdrawalAmount": 65.99
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase 07/06 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase 07/07 Weatherverifications Wvs. Corelogic CA Card 1096",
+          "WithdrawalAmount": 39.95
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase 07/07 Green Mountain Wast. Sandar.Leung@ NC Card 1096",
+          "WithdrawalAmount": 412.61
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase With Pin 07/07 On The Run #506 Gray Summit MO Card 1096",
+          "WithdrawalAmount": 65.57
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-07",
+          "Description": "Card Purchase With Pin 07/07 Wm Supercenter #65 Sullivan MO Card 1096",
+          "WithdrawalAmount": 57.05
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-09",
+          "Description": "Recurring Card Purchase 07/09 Adobe *800-833-6687 Adobe.Ly/Enus CA Card 1096",
+          "WithdrawalAmount": 19.99
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-09",
+          "Description": "Card Purchase 07/08 Ocmi Workers Comp 800-718-7552 FL Card 1096",
+          "WithdrawalAmount": 46.42
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-10",
+          "Description": "Card Purchase 07/09 Ocmi Workers Comp 800-718-7552 FL Card 1096",
+          "WithdrawalAmount": 150.94
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-10",
+          "Description": "Card Purchase 07/09 Arden-Asheville/Mario 800-789-3638 NC Card 1096",
+          "WithdrawalAmount": 69
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-10",
+          "Description": "Card Purchase 07/09 Notarize Dba Proof. Com Proof. Com NY Card 1096",
+          "WithdrawalAmount": 25
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-10",
+          "Description": "Payment Sent 07/10 Rmtly* Kf428 Remitly. Com WA Card 1096",
+          "WithdrawalAmount": 350
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-11",
+          "Description": "Card Purchase With Pin 07/11 On The Run #506 Gray Summit MO Card 1096",
+          "WithdrawalAmount": 63.09
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-11",
+          "Description": "Card Purchase With Pin 07/11 Lowe's #2303 Arnold MO Card 1096",
+          "WithdrawalAmount": 85.14
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-11",
+          "Description": "Card Purchase With Pin 07/11 Rocket 4229 Fenton MO Card 1096",
+          "WithdrawalAmount": 26.29
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-11",
+          "Description": "Card Purchase With Pin 07/11 Lowe's #2303 Arnold MO Card 1096",
+          "WithdrawalAmount": 13.25
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "Card Purchase 07/11 0642 - Arrowhd Bldg S 833-290-7459 MO Card 1096",
+          "WithdrawalAmount": 3530.22
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "Card Purchase 07/11 Qt 668 Saint Louis MO Card 1096",
+          "WithdrawalAmount": 6.04
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "Card Purchase 07/12 Iiq*Myscoreiq.Com 800-6375590 NV Card 1096",
+          "WithdrawalAmount": 1
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "Card Purchase 07/13 Fiverr 855-5859699 NY Card 1096",
+          "WithdrawalAmount": 40.43
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-15",
+          "Description": "Recurring Card Purchase 07/14 Fiverrinc New York NY Card 1096",
+          "WithdrawalAmount": 40.43
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-15",
+          "Description": "Card Purchase 07/14 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-15",
+          "Description": "Card Purchase\n07/14 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-15",
+          "Description": "Recurring Card Purchase 07/15 Fiverrinc New York NY Card 1096",
+          "WithdrawalAmount": 37.26
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-16",
+          "Description": "Card Purchase\n07/14 Jessie Foundation Chari Atlanta GA Card 1096",
+          "WithdrawalAmount": 600
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-16",
+          "Description": "Recurring Card Purchase 07/16 Fiverrinc New York NY Card 1096",
+          "WithdrawalAmount": 40.43
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-16",
+          "Description": "Card Purchase 07/15 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-17",
+          "Description": "Recurring Card Purchase 07/17 Wyomingllcattomey San Juan Card 1096",
+          "WithdrawalAmount": 29.99
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-17",
+          "Description": "Card Purchase With Pin 07/17 Pilot #0208 Pacific MO Card 1096",
+          "WithdrawalAmount": 53.18
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-17",
+          "Description": "Card Purchase With Pin 07/17 Lowe's #2729 Sullivan MO Card 1096",
+          "WithdrawalAmount": 7
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-18",
+          "Description": "Card Purchase\n07/17 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "Card Purchase 07/17 Cityofstlouis-Parking St Louis MO Card 1096",
+          "WithdrawalAmount": 1
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "Card Purchase\n07/18 Ocmi Workers Comp 800-718-7552 FL Card 1096",
+          "WithdrawalAmount": 46.42
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "Recurring Card Purchase 07/19 Zg * Rentapplication 206-516-2265 WA Card 1096",
+          "WithdrawalAmount": 35
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "Recurring Card Purchase 07/20 Iiq*Myscoreiq.Com 800-6375590 NV Card 1096",
+          "WithdrawalAmount": 29.86
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "Card Purchase\n07/20 Roofr Inc. Roofr. Com CA Card 1096",
+          "WithdrawalAmount": 24
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "Card Purchase With Pin 07/22 Starlink Hawthorne CA Card 1096",
+          "WithdrawalAmount": 120
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-24",
+          "Description": "Card Purchase\n07/23 Popeyes 13888 Https://Prod. MO Card 1096",
+          "WithdrawalAmount": 19.35
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-25",
+          "Description": "Card Purchase\n07/24 Att*Bill Payment 800-288-2020 TX Card 1096",
+          "WithdrawalAmount": 154
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-25",
+          "Description": "Card Purchase\n07/24 Progressive *Insuranc800-776-4737 OH Card 1096",
+          "WithdrawalAmount": 343.32
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-25",
+          "Description": "Recurring Card Purchase 07/24 Biberk Insurance AR@Guard.Com PA Card 1096",
+          "WithdrawalAmount": 415.18
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-25",
+          "Description": "Card Purchase 07/25 Craigslist. Org 415-399-5200 CA Card 1096",
+          "WithdrawalAmount": 5
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-25",
+          "Description": "Card Purchase 07/25 Corporatefilings, LLC 855-344-2677 WY Card 1096",
+          "WithdrawalAmount": 40
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-28",
+          "Description": "Card Purchase\n07/24 Jessie Foundation Chari Atlanta GA Card 1104",
+          "WithdrawalAmount": 800
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-28",
+          "Description": "Card Purchase\n07/25 Ocmi Workers Comp 800-718-7552 FL Card 1096",
+          "WithdrawalAmount": 46.42
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-28",
+          "Description": "Recurring Card Purchase 07/26 Arden-Asheville/Mario 800-789-3638 NC Card 1096",
+          "WithdrawalAmount": 69
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-28",
+          "Description": "Card Purchase\n07/28 Fiverr * 9543682267 NY Card 1096",
+          "WithdrawalAmount": 168.8
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-29",
+          "Description": "Recurring Card Purchase 07/29 Fiverrinc New York NY Card 1096",
+          "WithdrawalAmount": 40.43
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-29",
+          "Description": "Card Purchase With Pin 07/29 Qt 602 Outside St Charles MO Card 1104",
+          "WithdrawalAmount": 42.82
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-30",
+          "Description": "Recurring Card Purchase 07/30 Fiverrinc New York NY Card 1096",
+          "WithdrawalAmount": 40.43
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-03",
+          "Description": "07/03 Online Transfer To Chk ... 0087 Transaction#: 25355657064",
+          "WithdrawalAmount": 30
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-11",
+          "Description": "07/11 Online Transfer To Chk ... 0087 Transaction#: 25453821710",
+          "WithdrawalAmount": 250
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-11",
+          "Description": "07/11 Online Transfer To Chk ... 0087 Transaction#: 25454594862",
+          "WithdrawalAmount": 150
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "07/12 Online Transfer To Chk ... 0087 Transaction#: 25460157162",
+          "WithdrawalAmount": 250
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "07/12 Online Realtime Payroll Payment 11179936526 Payment ID Reference#: 8179936526Rx To 2539",
+          "WithdrawalAmount": 50
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-14",
+          "Description": "07/13 Online Transfer To Chk ... 0087 Transaction#: 25470570752",
+          "WithdrawalAmount": 250
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-15",
+          "Description": "Orig CO Name: Capital One Auto Orig ID:9541719806 Desc Date:\nCarpay Sec: CCD Trace#: 051405513160078 Eed:250715 Ind CO Entry ID:Cp0Cf7Ce3C53Fe5 Ind Name: Kayla Gillespie Trn: 1963160078Tc",
+          "DepositAmount": 999.64
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-21",
+          "Description": "07/20 Online Transfer To Chk ... 0087 Transaction#: 25551196253",
+          "WithdrawalAmount": 30
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "Online Transfer To Chk ... 0087 Transaction#: 25575905663",
+          "WithdrawalAmount": 30
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-22",
+          "Description": "Online ACH Payment 11181055073 To Firstcitz (_######3749)",
+          "WithdrawalAmount": 23
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-24",
+          "Description": "Zelle Payment To BB Jpm99Bgskk8V",
+          "WithdrawalAmount": 100
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-24",
+          "Description": "07/24 Online Transfer To Chk ... 0087 Transaction#: 25595443918",
+          "WithdrawalAmount": 1500
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-25",
+          "Description": "07/25 Online Transfer To Chk ... 0087 Transaction#: 25606289073",
+          "WithdrawalAmount": 100
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-29",
+          "Description": "07/29 Online Transfer To Chk ... 0087 Transaction#: 25649105650",
+          "WithdrawalAmount": 400
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-31",
+          "Description": "Zelle Payment To Tezziah Jpm99Bho5Lyq",
+          "WithdrawalAmount": 1000
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-29",
+          "Description": "07/29 Withdrawal",
+          "WithdrawalAmount": 2800
+        },
+        {
+          "_source": "",
+          "Date": "2025-07-31",
+          "Description": "Monthly Service Fee",
+          "WithdrawalAmount": 15
+        }
+      ]
+    }
+  ],
+  "BankAddress": {
+    "_source": "P O Box 182051 Columbus, OH 43218 - 2051",
+    "houseNumber": "2051",
+    "poBox": "P O Box 182051",
+    "postalCode": "43218",
+    "city": "Columbus",
+    "state": "OH",
+    "streetAddress": "2051 P O Box 182051"
+  },
+  "BankName": "CHASE",
+  "StatementEndDate": "2025-07-31",
+  "StatementStartDate": "2025-07-01"
+}
