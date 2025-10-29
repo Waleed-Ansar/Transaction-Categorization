@@ -1,0 +1,340 @@
+{
+  "AccountHolderAddress": {
+    "_source": "4 LONG SHOALS RD RD. STEB BOX720 ARDEN NC 28704-5544",
+    "houseNumber": "4",
+    "road": "LONG SHOALS RD RD. STEB",
+    "postalCode": "28704-5544",
+    "city": "ARDEN",
+    "state": "NC",
+    "streetAddress": "4 LONG SHOALS RD RD. STEB"
+  },
+  "AccountHolderName": "STORM PRO SOLUTION LLC",
+  "Accounts": [
+    {
+      "_source": "",
+      "AccountNumber": "001212973749",
+      "AccountType": "Business Banking III",
+      "BeginningBalance": 1.8,
+      "EndingBalance": 3395.26,
+      "Transactions": [
+        {
+          "_source": "",
+          "Date": "2025-08-01",
+          "Description": "Vacp Treas 310 Xxva Benef *********** 3600",
+          "DepositAmount": 492.42
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "Fcbmerchant Comb. Exc. 9303",
+          "DepositAmount": 70410.8
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-11",
+          "Description": "Fcbmerchant Comb. Dep. 9303",
+          "DepositAmount": 7000
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-14",
+          "Description": "Fcbmerchant Comb. Dep. 9303",
+          "DepositAmount": 5000
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-19",
+          "Description": "Baker, Bloomberg Deposit Dpaaaht7Kh",
+          "DepositAmount": 680
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-25",
+          "Description": "Fcbmerchant Comb. Dep. 9303",
+          "DepositAmount": 18300
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-29",
+          "Description": "Vacp Treas 310 Xxva Benef 3600",
+          "DepositAmount": 492.42
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "Purchase\nVisa #4067 08-05 ATM 001 Seq # 66062\nLowe S #10 2900 West Clay S Trsaint Char Le",
+          "WithdrawalAmount": 27.62
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "Purchase\nVisa #4067 08-05 ATM 001 Seq # 81719\nLowe S #10 2900 West Clay S Trsaint Char Le",
+          "WithdrawalAmount": 55.53
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "ACH Payroll\n08-05 Seq # 33879 Track Id# 94719379",
+          "WithdrawalAmount": 1400
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "ACH Payroll\n08-05 Seq # 33859 Track Id# 94717934",
+          "WithdrawalAmount": 15000
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "ACH Payroll\n08-05 Seq # 33865 Track Id# 94718516",
+          "WithdrawalAmount": 20000
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "Capital One Auto Carpay Cp*a **** 6D1A1C4",
+          "WithdrawalAmount": 999.64
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-05",
+          "Description": "Zelle Kayla Gillespie 877-206-3818",
+          "WithdrawalAmount": 1500
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-06",
+          "Description": "POS Sig 08/05 Visa #4067 Self Lender 2 877-8830999 Tx",
+          "WithdrawalAmount": 26.2
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-06",
+          "Description": "Withdrawal\n000001212973749 08-05 ATM 7337G0 Seq # 80058\n328 East S Serv 328 East S Servi Cesullivan, Mo",
+          "WithdrawalAmount": 303.25
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-06",
+          "Description": "Withdrawal\n000001212973749 08-06 ATM Ic0515 Seq # 94996\n1999 West Osage 1999 West Osage Pacific Mo",
+          "WithdrawalAmount": 503.5
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-06",
+          "Description": "Footbridge Media Footbridge",
+          "WithdrawalAmount": 249
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "Purchase Visa #4067 08-07 ATM 001 Seq # 65303 Lowe S #27 760 Eagles Court Sullivan Mo",
+          "WithdrawalAmount": 6.49
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "POS Sig 08/05 Visa #4067 Jimmy Johns - 3423 - E 573-468-3278 Mo",
+          "WithdrawalAmount": 6.53
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "Purchase Visa #4067 08-07 ATM 001 760 Eagles Court Sullivan Mo Seq # 56117 Lowe S #27",
+          "WithdrawalAmount": 92.95
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "Purchase Visa #4067\n08-07 ATM 001\n760 Eagles Court Sullivan Mo\nSeq # 41538 Lowe S #27",
+          "WithdrawalAmount": 151.95
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "POS Sig 08/06 Visa #4067 Progressive *insurance 800-776-4737 Oh",
+          "WithdrawalAmount": 198.33
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "POS Sig 08/06 Visa #4067 Pnm*c3 Rentals Llc Hattiesburg Ms",
+          "WithdrawalAmount": 637.24
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "Purchase Visa #4067 08-07 ATM 001 Seq # 20838 Lowe S #27 760 Eagles Court Sullivan Mo",
+          "WithdrawalAmount": 661.45
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "Purchase Visa #4067 08-06 ATM 001 Seq # 22071 Lowe S #27 760 Eagles Court Sullivan Mo",
+          "WithdrawalAmount": 6519.35
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-07",
+          "Description": "Lowes Syf Paymnt *********** 5354",
+          "WithdrawalAmount": 13412.84
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-08",
+          "Description": "POS Sig 08/07 Visa #4067 Lowes #00753* 636-379-2855 Mo",
+          "WithdrawalAmount": 29.1
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-08",
+          "Description": "POS Sig 08/07 Visa #4067 Fiverr 855-5859699 Ny",
+          "WithdrawalAmount": 87.9
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-08",
+          "Description": "POS Sig 08/07 Visa #4067 Nic *- Dbpr Dept Of Bus Egov.Com FI",
+          "WithdrawalAmount": 200
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-08",
+          "Description": "POS Sig 08/07 Visa #4067 Progressive *insurance 800-776-4737 Oh",
+          "WithdrawalAmount": 343.32
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-08",
+          "Description": "POS Sig 08/07 Visa #4067 Rf *big Boys Towing 636-273-6300 Mo",
+          "WithdrawalAmount": 551.25
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-08",
+          "Description": "POS Sig 08/07 Visa #4067 Lowes #02300* 314-450-2140 Mo",
+          "WithdrawalAmount": 1228.49
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-08",
+          "Description": "POS Sig 08/07 Visa #4067 Lowes #00753* 636-379-2855 Mo",
+          "WithdrawalAmount": 1765.62
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-13",
+          "Description": "POS Sig 08/11 Visa #4067 Windle Terry Bimbo 704-944-3244 NC",
+          "WithdrawalAmount": 4000
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-13",
+          "Description": "ACH Payroll 08-13 Seq # 10815 Track Id# 95090726",
+          "WithdrawalAmount": 350
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-13",
+          "Description": "Iheartmedia, Inc Iheartmedi ******** 6617",
+          "WithdrawalAmount": 3201.91
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-14",
+          "Description": "POS Sig 08/12 Visa #4067 Imos Pizza Sullivan 573-8604667 Mo",
+          "WithdrawalAmount": 33.62
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-14",
+          "Description": "ACH Payroll 08-14 Seq # 59527 Track Id# 95137214",
+          "WithdrawalAmount": 1800
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-14",
+          "Description": "ACH Payroll 08-14 Seq # 27250 Track Id# 95108224",
+          "WithdrawalAmount": 3750
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-19",
+          "Description": "ACH Payroll 08-19 Seq # 72431 Track Id# 95353706",
+          "WithdrawalAmount": 1300
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-19",
+          "Description": "ACH Payroll 08-18 Seq # 41423 Track Id# 95323596",
+          "WithdrawalAmount": 2500
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-20",
+          "Description": "Fcbmerchant Fees 0Xk898",
+          "WithdrawalAmount": 2481.08
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-20",
+          "Description": "Overdraft Charge",
+          "WithdrawalAmount": 36
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-25",
+          "Description": "POS Sig 08/22 Visa #4067 liq*myscoreiq.Com 800-6375590 Nv",
+          "WithdrawalAmount": 34.99
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-25",
+          "Description": "ACH Payroll 08-25 Seq # 14494 Track Id# 95585700",
+          "WithdrawalAmount": 12000
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-25",
+          "Description": "Overdraft Charge",
+          "WithdrawalAmount": 36
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-29",
+          "Description": "POS Sig 08/28 Visa #4067 Fiverr * 9543682267 Ny",
+          "WithdrawalAmount": 263.75
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-29",
+          "Description": "POS Sig 08/28 Visa #4067 Progressive *insurance 800-776-4737 Oh",
+          "WithdrawalAmount": 333.32
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-29",
+          "Description": "POS Sig 08/28 Visa #4067 Republic Services Tras 866-576-5548 Az",
+          "WithdrawalAmount": 883.96
+        },
+        {
+          "_source": "",
+          "Date": "2025-08-29",
+          "Description": "Digital Banking Fees",
+          "WithdrawalAmount": 20
+        }
+      ]
+    }
+  ],
+  "BankAddress": {
+    "_source": "P.O. Box 27131 Raleigh, NC 27611-7131",
+    "poBox": "P.O. Box 27131",
+    "postalCode": "27611-7131",
+    "city": "Raleigh",
+    "state": "NC",
+    "streetAddress": "P.O. Box 27131"
+  },
+  "BankName": "First Citizens Bank",
+  "StatementEndDate": "2025-08-31",
+  "StatementStartDate": "2025-08-01"
+}
