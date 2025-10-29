@@ -1,0 +1,65 @@
+{
+  "AccountHolderAddress": {
+    "_source": "1020 PINOAK LN BOURBON MO 65441",
+    "houseNumber": "1020",
+    "road": "PINOAK LN",
+    "postalCode": "65441",
+    "city": "BOURBON",
+    "state": "MO",
+    "streetAddress": "1020 PINOAK LN"
+  },
+  "AccountHolderName": "STORM PRO SOLUTION LLC",
+  "Accounts": [
+    {
+      "_source": "",
+      "AccountNumber": "000000713980095",
+      "AccountType": "Chase Business Complete Checking",
+      "BeginningBalance": "$0.00",
+      "EndingBalance": 320.93,
+      "Transactions": [
+        {
+          "_source": "",
+          "Date": "2025-05-05",
+          "Description": "Deposit 1251034165",
+          "DepositAmount": 1120.57
+        },
+        {
+          "_source": "",
+          "Date": "2025-05-29",
+          "Description": "Online Transfer From Chk ... 0087 Transaction#: 24928508653",
+          "DepositAmount": 1000
+        },
+        {
+          "_source": "",
+          "Date": "2025-05-16",
+          "Description": "Orig CO Name: Capital One Auto Orig ID:9541719806 Desc Date: CO Entry Descr: Carpay Sec: CCD Trace#: 051405513348845 Eed:250516 Ind ID:Cp05E3C6Eb4F10C Ind Name: Kayla Gillespie Trn: 1363348845Tc",
+          "WithdrawalAmount": 999.64
+        },
+        {
+          "_source": "",
+          "Date": "2025-05-27",
+          "Description": "05/27 Online Transfer To Chk ... 0087 Transaction#: 24910424938",
+          "WithdrawalAmount": 100
+        },
+        {
+          "_source": "",
+          "Date": "2025-05-29",
+          "Description": "05/29 Online Transfer To Chk ... 0087 Transaction#: 24934163515",
+          "WithdrawalAmount": 700
+        }
+      ]
+    }
+  ],
+  "BankAddress": {
+    "_source": "P O Box 182051 Columbus, OH 43218 - 2051",
+    "houseNumber": "2051",
+    "poBox": "P O Box 182051",
+    "postalCode": "43218",
+    "city": "Columbus",
+    "state": "OH",
+    "streetAddress": "2051 P O Box 182051"
+  },
+  "BankName": "CHASE",
+  "StatementEndDate": "2025-05-30",
+  "StatementStartDate": "2025-05-05"
+}
