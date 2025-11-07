@@ -33,22 +33,22 @@
                         "Date": "2023-09-03",
                         "Description": "Ride from uber aa"
                     },
-{
+                    {
                         "_source": "",
                         "Date": "2023-09-04",
                         "Description": "Ride from uber aaa"
                     },
-{
+                    {
                         "_source": "",
                         "Date": "2023-09-05",
                         "Description": "Ride from uber aaaa"
                     },
-{
+                    {
                         "_source": "",
                         "Date": "2023-09-06",
                         "Description": "Ride from uber aaaaa"
                     },
-{
+                    {
                         "_source": "",
                         "Date": "2023-09-07",
                         "Description": "Ride from uber aaaaaa"
