@@ -1,76 +1,78 @@
-
-    {
-        "AccountHolderAddress": {
-            "_source": "438 S 5TH ST DARBY PA 19023-2714",
-            "houseNumber": "438",
-            "road": "S 5TH ST",
-            "postalCode": "19023-2714",
-            "city": "DARBY",
-            "state": "PA",
-            "streetAddress": "438 S 5TH ST"
+[
+  {
+    "AccountHolderAddress": {
+        "_source": "438 S 5TH ST DARBY PA 19023-2714",
+        "houseNumber": "438",
+        "road": "S 5TH ST",
+        "postalCode": "19023-2714",
+        "city": "DARBY",
+        "state": "PA",
+        "streetAddress": "438 S 5TH ST"
+    },
+    "AccountHolderName": "EMCBH LLC",
+    "Accounts": [
+        {
+            "_source": "",
+            "AccountNumber": "7111743303",
+            "AccountType": "Business Checking",
+            "BeginningBalance": 55446.84,
+            "EndingBalance": 56864.42,
+            "Transactions": [
+                {
+                    "_source": "",
+                    "Date": "2023-09-01",
+                    "Description": "Ride from uber"
+                },
+                {
+                    "_source": "",
+                    "Date": "2023-09-02",
+                    "Description": "Ride from uber a"
+                },
+                {
+                    "_source": "",
+                    "Date": "2023-09-03",
+                    "Description": "Ride from uber aa"
+                },
+                {
+                    "_source": "",
+                    "Date": "2023-09-04",
+                    "Description": "Ride from uber aaa"
+                },
+                {
+                    "_source": "",
+                    "Date": "2023-09-05",
+                    "Description": "Ride from uber aaaa"
+                },
+                {
+                    "_source": "",
+                    "Date": "2023-09-06",
+                    "Description": "Ride from uber aaaaa"
+                },
+                {
+                    "_source": "",
+                    "Date": "2023-09-07",
+                    "Description": "Ride from uber aaaaaa"
+                }
+            ]
         },
-        "AccountHolderName": "EMCBH LLC",
-        "Accounts": [
-            {
-                "_source": "",
-                "AccountNumber": "7111743303",
-                "AccountType": "Business Checking",
-                "BeginningBalance": 55446.84,
-                "EndingBalance": 56864.42,
-                "Transactions": [
-                    {
-                        "_source": "",
-                        "Date": "2023-09-01",
-                        "Description": "Ride from uber"
-                    },
-                    {
-                        "_source": "",
-                        "Date": "2023-09-02",
-                        "Description": "Ride from uber a"
-                    },
-                    {
-                        "_source": "",
-                        "Date": "2023-09-03",
-                        "Description": "Ride from uber aa"
-                    },
-                    {
-                        "_source": "",
-                        "Date": "2023-09-04",
-                        "Description": "Ride from uber aaa"
-                    },
-                    {
-                        "_source": "",
-                        "Date": "2023-09-05",
-                        "Description": "Ride from uber aaaa"
-                    },
-                    {
-                        "_source": "",
-                        "Date": "2023-09-06",
-                        "Description": "Ride from uber aaaaa"
-                    },
-                    {
-                        "_source": "",
-                        "Date": "2023-09-07",
-                        "Description": "Ride from uber aaaaaa"
-                    }
-                ]
-            },
-            {
-                "_source": "",
-                "AccountNumber": "35740995",
-                "AccountType": "Mbr Business Savings",
-                "EndingBalance": 20.02
-            }
-        ],
-        "BankAddress": {
-            "_source": "PO Box 3000 · Merrifield, VA · 22119-3000",
-            "poBox": "PO Box 3000",
-            "streetAddress": "PO Box 3000",
-            "house": "Merrifield, VA · 22119-3000"
-        },
-        "BankName": "NAVY FEDERAL 3 Credit Union",
-        "StatementEndDate": "2023-09-30",
-        "StatementStartDate": "2023-09-01",
-        "created_at": "2025-10-08T13:32:23.304Z"
-    }
-
+        {
+            "_source": "",
+            "AccountNumber": "35740995",
+            "AccountType": "Mbr Business Savings",
+            "EndingBalance": 20.02
+        }
+        
+    
+    ],
+    "BankAddress": {
+        "_source": "PO Box 3000 · Merrifield, VA · 22119-3000",
+        "poBox": "PO Box 3000",
+        "streetAddress": "PO Box 3000",
+        "house": "Merrifield, VA · 22119-3000"
+    },
+    "BankName": "NAVY FEDERAL 3 Credit Union",
+    "StatementEndDate": "2023-09-30",
+    "StatementStartDate": "2023-09-01",
+    "created_at": "2025-10-08T13:32:23.304Z"
+}
+]
