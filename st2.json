@@ -21,7 +21,8 @@
                     {
                         "_source": "",
                         "Date": "2023-09-01",
-                        "Description": "Beginning Balance"
+                        "Description": "Beginning Balance",
+                        "DepositAmount": 1200
                     },
                     {
                         "_source": "",
@@ -1724,7 +1725,8 @@
                     {
                         "_source": "",
                         "Date": "2023-09-30",
-                        "Description": "Ending Balance"
+                        "Description": "Ending Balance",
+                        "DepositAmount": 100
                     }
                 ]
             },
@@ -1750,4 +1752,5 @@
         },
         "created_at": "2025-10-08T13:32:23.304Z"
     }
+
 ]
